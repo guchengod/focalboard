@@ -3,6 +3,7 @@
 >
 > This repository only contains standalone Focalboard. If you're looking for the Mattermost plugin please see [mattermost/mattermost-plugin-boards](https://github.com/mattermost/mattermost-plugin-boards).
 >
+> I am deeply interested in the Focalboard project and am willing to invest time and effort into maintaining and improving it. Focalboard, as an outstanding open-source project management tool, has played a significant role in facilitating work management for individuals and teams. I plan to regularly fix issues and optimize features to ensure that the project continues to deliver value to its users.
 
 # Focalboard
 
@@ -12,6 +13,8 @@
 ![Prod Release](https://github.com/mattermost/focalboard/actions/workflows/prod-release.yml/badge.svg)
 
 ![Focalboard](website/site/static/img/hero.jpg)
+
+[中文文档](README-CN.md)
 
 Focalboard is an open source, multilingual, self-hosted project management tool that's an alternative to Trello, Notion, and Asana.
 
